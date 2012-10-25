@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.usermetrix</groupId>
   <artifactId>UserMetrix-LogBackAppender</artifactId>
-  <version>1.0.5</version>
+  <version>1.0.6</version>
   <packaging>jar</packaging>
   <name>UserMetrix-LogBackAppender</name>
   <url>http://usermetrix.com</url>
@@ -75,7 +75,7 @@
     <dependency>
       <groupId>com.usermetrix</groupId>
       <artifactId>UserMetrix-jweclient</artifactId>
-      <version>1.0.5</version>
+      <version>1.0.6</version>
     </dependency>
 
     <dependency>
